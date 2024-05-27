@@ -36,14 +36,14 @@ public:
     budi(int pUmur) :
         pekerja(pUmur), pelajar(pUmur)
         {
-            cout << "Budi dibuat\n" << endl;
+            cout << "Budi dibuat\n" << endl;//menampilkan tilisan"budi dibuat"
 
 
         }
 };
 
 int main() {
-    budi a(12);
+    budi a(12)
 
     return 0;
 }
