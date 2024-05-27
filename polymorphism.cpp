@@ -8,3 +8,7 @@ public:
     //    cout << "Pesan dari Seseorang" << endl;
     //}
 };
+
+class joko :public seseorang {
+
+};
